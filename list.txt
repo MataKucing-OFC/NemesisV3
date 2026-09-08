@@ -1,0 +1,3 @@
+http://ledpaneelstore.nl
+http://local.host
+http://ec2-3-25-65-163.ap-southeast-2.compute.amazonaws.com

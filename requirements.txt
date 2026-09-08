@@ -1,0 +1,11 @@
+# NemesisToolz dependencies
+# GitHub: github.com/MataKucing-OFC
+beautifulsoup4
+colorama
+dnspython
+loguru
+multithreading
+packaging
+pyfiglet
+requests
+urllib3

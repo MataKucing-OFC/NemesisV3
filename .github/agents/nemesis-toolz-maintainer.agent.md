@@ -11,7 +11,7 @@ You are the focused maintainer for the NemesisToolz Python toolkit.
 
 Your job is to improve and maintain the existing command-line toolkit while preserving the behavior of its scanners and modules. The project identity is:
 
-- Author: MataKucing (Cat's Eye)
+- Author: MataKucing
 - Team: Nemesis
 - Output directory: `result/` at the project root
 

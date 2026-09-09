@@ -11,7 +11,16 @@ GitHub: [github.com/MataKucing-OFC](https://github.com/MataKucing-OFC)
 ## Features
 
 - Host, IP, subdomain, DNS, OSINT, port, and TXT tools.
-- Unified CVE tools menu.
+- CVE-2025-11533
+- CVE-2025-13486
+- CVE-2025-14156
+- CVE-2025-15030
+- CVE-2025-55182
+- CVE-2025-6934
+- CVE-2026-0920
+- CVE-2026-18366
+- CVE-2026-41940
+- CVE-2026-60137-63030
 - Centralized CVE configuration through `settings.json`.
 - Target input through `list.txt`.
 - Results saved in the `result/` directory.

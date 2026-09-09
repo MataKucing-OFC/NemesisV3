@@ -1,10 +1,12 @@
 # NemesisToolz
 
-Security research toolkit by **MataKucing** and **Team Nemesis**.
+Security research toolkit by **MataKucing** and **Nemesis**.
 
 GitHub: [github.com/MataKucing-OFC](https://github.com/MataKucing-OFC)
 
 > Use this toolkit only on systems you own or are explicitly authorized to test.
+
+<img width="800" height="419" alt="nemesis" src="https://github.com/user-attachments/assets/1b7f6c2c-57a9-4e24-b8d9-f58b92cdcf4c" />
 
 ## Features
 
